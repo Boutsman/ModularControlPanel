@@ -37,7 +37,7 @@ The case design is fully parametric, allowing you to easily adapt the size of th
 - **userWidth**: total width of the case (defines how many slots your panel can take)
 - **userDepth**: total depth of the case
 
-👉 **Fusion 360 design file:** *Fusion 360 Link* (vervang door je effectieve link als je die hebt)
+👉 **Fusion 360 design file:** [https://a360.co/3HmZ7jt]
 
 > Note: The panel height is fixed at 100 mm — only width and depth are adjustable via parameters.
 
